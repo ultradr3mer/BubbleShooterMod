@@ -1,6 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 var static = require('node-static');
+const open = require('open');
 
 var fileServer = new static.Server('.');
  
@@ -9,7 +10,7 @@ const options = {
   cert: fs.readFileSync('cert.pem')
 };
 
-var hostname = '127.0.0.1';
+var hostname = 'localhost';
 var port = 8000;
 
 server = https.createServer(options, function (request, response) {
@@ -18,4 +19,5 @@ server = https.createServer(options, function (request, response) {
     }).resume();
 }).listen(port, hostname, function() {
   console.log('Server running at https://'+ hostname + ':' + port + '/');
+  open('https://' + hostname + ':' + port + '/games.softgames.com/games/bubble-shooter-hd/gamesites/1964/locale/de/index.htm');
 });

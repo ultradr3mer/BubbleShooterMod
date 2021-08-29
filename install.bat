@@ -1,1 +1,1 @@
-npm i node-static
+npm install node-static open

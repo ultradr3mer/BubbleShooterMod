@@ -8374,8 +8374,8 @@
                   score: state.ui.pointCounter.score
                 }, this);
 
-                sdkHandler.trigger('playButtonPressed', { 
-                    callback: function() {
+                // sdkHandler.trigger('playButtonPressed', { 
+                    // callback: function() {
                       game.state.start("Game");
 
                       sdkHandler.trigger('gameStart');
@@ -8384,8 +8384,8 @@
                         event: "Design",
                         dimension1: "NewGameStart"
                       });
-                    } 
-                }, this);
+                    // } 
+                // }, this);
               }, this);
             }
             this.closeWindow();

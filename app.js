@@ -13,7 +13,7 @@ const options = {
 var hostname = 'localhost';
 var port = 8000;
 
-server = https.createServer(options, function (request, response) {
+https.createServer(options, function (request, response) {
     request.addListener('end', function () {
         fileServer.serve(request, response);
     }).resume();

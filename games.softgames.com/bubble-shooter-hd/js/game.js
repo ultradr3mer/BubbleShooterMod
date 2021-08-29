@@ -7144,8 +7144,8 @@
                 dimension1: "RestartGamePressed"
               });
 
-              sdkHandler.trigger('playButtonPressed', { 
-                  callback: function() {
+              // sdkHandler.trigger('playButtonPressed', { 
+                  // callback: function() {
 
                       game.state.start("Game");
 
@@ -7155,8 +7155,8 @@
                           event: "Design",
                           dimension1: "NewGameStart"
                       });
-                  } 
-              }, this);
+                  // } 
+              // }, this);
             }, this)
 
             //SG_Hooks.levelFinished(this.state.gameLevel+1,this.state.ui.pointCounter.score);
@@ -8203,9 +8203,9 @@
 
         this.btn = this.addButton(0, 280, 'button_big', G.txt(5), function() {
 
-            sdkHandler.trigger('playButtonPressed', { 
+            // sdkHandler.trigger('playButtonPressed', { 
 
-                callback: function() { 
+                // callback: function() { 
                     game.state.start('Game');
                     this.isTop10 = this.checkIfTop10(G.points);
 
@@ -8234,9 +8234,9 @@
                         this.closeWindow();
                     }
 
-                }
+                // }
 
-            }, this)
+            // }, this)
 
             //SG_Hooks.playButtonPressed((function() {
             //SG_Hooks.levelFinished(this.state.gameLevel+1,G.points);
@@ -8244,12 +8244,12 @@
             //}).bind(this));
         }, this);
 
-        this.btn.visible = false;
-        sdkHandler.trigger('beforePlayButtonDisplay', { 
-            callback: function() {
+        // this.btn.visible = false;
+        // sdkHandler.trigger('beforePlayButtonDisplay', { 
+            // callback: function() {
                 this.btn.visible = true;
-            }
-        }, this)
+            // }
+        // }, this)
 
     };
 
@@ -8592,25 +8592,25 @@
       // G.Window.prototype.addButton = function(x, y, sprite, text, func, context)
       this.okBtn = G.Window.prototype.addButton.call(this, -110, 100, "button_small", G.txt(5), function(){
         G.restartOpen = false;
-       okFunc.call(context);
+		okFunc.call(context);
       }, this);
       this.cancelBtn = G.Window.prototype.addButton.call(this, 110, 100, "button_small", G.txt(6), function() {
-        sdkHandler.trigger('playButtonPressed', { 
-          callback: function() {
+        // sdkHandler.trigger('playButtonPressed', { 
+          // callback: function() {
             G.restartOpen = false;
             this.destroy();
-          } 
-        }, this);      
+          // } 
+        // }, this);      
       }, this);
 
-      this.okBtn.visible = false;
-      this.cancelBtn.visible = false;
-      sdkHandler.trigger('beforePlayButtonDisplay', {     
-        callback: function() {      
+      //this.okBtn.visible = false;
+      // this.cancelBtn.visible = false;
+      // sdkHandler.trigger('beforePlayButtonDisplay', {     
+        // callback: function() {      
           this.okBtn.visible = true;
           this.cancelBtn.visible = true;
-        } 
-        }, this);
+        // } 
+        // }, this);
     };
 
     G.RestartBox.prototype = Object.create(Phaser.Group.prototype);

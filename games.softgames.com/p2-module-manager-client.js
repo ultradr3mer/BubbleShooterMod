@@ -1939,7 +1939,7 @@ var _0x4874 = function(_0x27e44a, _0x1e9bd5) {
 		}
 	};
 	var _0x2b4694 = {
-		'configURL': _0x4874('0x107'),
+		'configURL': 'config.json',
 		'modules': {
 			'ads': {
 				'name': _0x4874('0x108'),
@@ -1985,10 +1985,10 @@ var _0x4874 = function(_0x27e44a, _0x1e9bd5) {
 	};
 	var _0x5cdfba = {};
 	var _0x313dcc = {
-		'configURL': _0x4874('0x107')
+		'configURL': 'config.json'
 	};
 	var _0x3feeef = {
-		'configURL': _0x4874('0x10f'),
+		'configURL': 'config.json',
 		'tracking': {
 			'googleAnalytics': {
 				'sdkUrl': _0x4874('0x101'),
@@ -6958,7 +6958,7 @@ var _0x4874 = function(_0x27e44a, _0x1e9bd5) {
 						case 0x0:
 							_0xa2143f = _0x503e11[_0x4874('0x2aa')], _0x1b7855 = _0xa2143f[_0x4874('0x304')], _0xb033ed = _0xa2143f['envKeys'];
 							_0x103392 = _0x25b419(_0x503e11['jQuery'][_0x4874('0x319')], {
-								'configURL': _0x1b7855,
+								'configURL': 'config.json',
 								'envKeys': _0xb033ed
 							});
 							_0x1369aa = {

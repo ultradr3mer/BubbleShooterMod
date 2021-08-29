@@ -1,0 +1,104 @@
+Uri: https://games.softgames.com/games/bubble-shooter-hd/gamesites/1964/locale/de/
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\games\bubble-shooter-hd\gamesites\1964\locale\de\index.htm
+Content Type: text/html
+
+Uri: https://games.softgames.com/bubble-shooter-hd/icon.ico
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\icon.ico
+Content Type: image/x-icon
+
+Uri: https://games.softgames.com/sdk/legacy/sg-sdk.5.6.0.min.js
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\sdk\legacy\sg-sdk.5.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://games.softgames.com/bubble-shooter-hd/js/phaser.min.js
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\js\phaser.min.js
+Content Type: application/javascript
+
+Uri: https://games.softgames.com/bubble-shooter-hd/js/game.js
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\js\game.js
+Content Type: application/javascript
+
+Uri: https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\scripttemplates\otSDKStub.js
+Content Type: application/javascript
+
+Uri: https://platform-modules.sgweb.softgames.de/p2-module-manager-client.js
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\p2-module-manager-client.js
+Content Type: binary
+
+Uri: https://platform-modules.sgweb.softgames.de/preroll-client.js
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\preroll-client.js
+Content Type: application/javascript
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/bubble_hits_bubble.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\bubble_hits_bubble.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/bubble_hits_wall.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\bubble_hits_wall.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/button_click.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\button_click.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/lost.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\lost.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/shoot_bubble.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\shoot_bubble.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/won.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\won.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/images/popup_box.png
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\images\popup_box.png
+Content Type: image/png
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/spritesheets/ssheet.png
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\spritesheets\ssheet.png
+Content Type: image/png
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/spritesheets/ui.png
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\spritesheets\ui.png
+Content Type: image/png
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/json/languages.json
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\json\languages.json
+Content Type: application/json
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/fonts/font.png
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\fonts\font.png
+Content Type: image/png
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/bubble_pops_1.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\bubble_pops_1.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/bubble_pops_2.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\bubble_pops_2.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/sfx/bubble_pops_3.mp3
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\sfx\bubble_pops_3.mp3
+Content Type: audio/mpeg
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/spritesheets/ui.json
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\spritesheets\ui.json
+Content Type: application/json
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/spritesheets/ssheet.json
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\spritesheets\ssheet.json
+Content Type: application/json
+
+Uri: https://games.softgames.com/bubble-shooter-hd/assets/hd/fonts/font.fnt
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\assets\hd\fonts\font.fnt
+Content Type: binary/octet-stream
+
+Uri: https://games.softgames.com/bubble-shooter-hd/img/bg_shadow.png
+File Name: C:\Users\Clara\Documents\BubbleShooter\games.softgames.com\bubble-shooter-hd\img\bg_shadow.png
+Content Type: image/png
+
